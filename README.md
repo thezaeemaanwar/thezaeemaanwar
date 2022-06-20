@@ -6,7 +6,7 @@ I am an ambivert and often very friendly and talkative.I like to explore new tec
 
 ![](https://komarev.com/ghpvc/?username=thezaeemaanwar&color=blueviolet&label=Profile+Views)
 <a href="https://github.com/thezaeemaanwar/stargazers"><img src="https://img.shields.io/github/stars/thezaeemaanwar" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/thezaeemaanwar/thezaeemaanwar?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/thezaeemaanwar/thezaeemaanwar/master/LICENSE"><img src="https://img.shields.io/github/license/thezaeemaanwar/thezaeemaanwar?color=2b9348" alt="License Badge"/></a>
 
 
 

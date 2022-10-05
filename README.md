@@ -32,6 +32,7 @@ I am an ambivert and often very friendly and talkative.I like to explore new tec
   <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="30" />
   <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="30" />
   <img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=2AA473" alt="Django logo" title="Django" height="30" />
+  <img src="https://img.shields.io/badge/AWS-282C34?logo=amazon&logoColor=FF9900" alt="AWS" title="AWS" height="30"/>
 </div>
 
 ## 📫 Say Hi

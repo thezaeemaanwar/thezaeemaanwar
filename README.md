@@ -1,7 +1,7 @@
 # Hi there <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="30">
 
 
-I am Zaeema Anwar. A Software Engineer at a Software Development Company: <a href="https://arbisoft.com/">Arbisoft</a>.
+I am Zaeema Anwar. A Software Engineer and Hobbyist Graphic Designer.
 I am an ambivert and often very friendly and talkative.I like to explore new technologies and do things that use imagination so I started graphic designing as a hobby. My passion for helping humanity led me to serve a welfare organization as a Web Development Lead.
 
 ![](https://komarev.com/ghpvc/?username=thezaeemaanwar&color=blueviolet&label=Profile+Views)
